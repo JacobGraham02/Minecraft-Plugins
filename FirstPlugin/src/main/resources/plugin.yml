@@ -1,0 +1,7 @@
+name: FirstPlugin
+version: ${project.version}
+main: com.jacobdgraham.firstplugin.FirstPlugin
+api-version: 1.16
+authors: [ JacobGraham ]
+description: My first Spigot plugin for Minecraft
+website: jacobdgraham.com
